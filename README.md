@@ -9,9 +9,9 @@ A Compiler Design project that implements the major phases of a compiler for a s
 | Field | Details |
 |---|---|
 | **Project Title** | Mini Compiler for a Custom Programming Language |
-| **Course** | Project Evaluation (24CS2235E) |
+| **Course** | Compiler Design (24CS2235F) |
 | **Academic Year** | 2026–2027 |
-| **Guide** | P. Krishna Kishore |
+| **Guide** | P. KRISHNA KISHORE |
 
 ---
 
